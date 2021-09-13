@@ -1,0 +1,59 @@
+.warnafont{
+    color: cornsilk;
+    font-family: 'Inconsolata', monospace;
+    
+}
+body{
+    background-color:black;
+    background-image:
+    radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+    radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+    radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+    radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+    background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+    background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
+.latartext{
+    background-color: aliceblue;
+}
+.judul{
+    font-size: 60pt;
+    font-weight: 800;
+    color: cornsilk;
+    font-family: 'Inconsolata', monospace;
+}
+.gambarbulat{
+    border-radius: 50%;
+}
+.teksdalam{
+    background-color: aliceblue;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20pt;
+    font-weight: 300;
+    text-align: justify;
+}
+.backgroundbulat{
+    border-radius: 25px;
+    border: 2px solid #0b6da7; 
+    margin-left: 200pt; 
+    margin-right: 200pt;
+}.backgroundbulat2{
+    border-radius: 25px;
+    border: 2px solid #0b6da7; 
+    margin-left: 50pt; 
+    margin-right: 50pt;
+    background-color: aliceblue;
+}
+.judulisi{
+    text-align: center;
+    font-weight: 800;
+    color: black;
+    font-family: 'Inconsolata', monospace;
+}
+.kontak{
+    background-color:black;
+    bottom:0;
+    left:0;
+    width: 100%;
+}
+  
