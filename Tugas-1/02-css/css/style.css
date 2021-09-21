@@ -1,7 +1,6 @@
 .warnafont{
     color: cornsilk;
-    font-family: 'Inconsolata', monospace;
-    
+    font-family: 'PT Sans', sans-serif;
 }
 body{
     background-color:black;
@@ -16,10 +15,14 @@ body{
 .latartext{
     background-color: aliceblue;
 }
+.navbar_font{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+}
 .judul{
     font-size: 60pt;
     font-weight: 800;
-    color: cornsilk;
+    color: white;
     font-family: 'Inconsolata', monospace;
 }
 .gambarbulat{
@@ -27,7 +30,7 @@ body{
 }
 .teksdalam{
     background-color: aliceblue;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'PT Sans', sans-serif;
     font-size: 20pt;
     font-weight: 300;
     text-align: justify;
@@ -35,20 +38,17 @@ body{
 .backgroundbulat{
     border-radius: 25px;
     border: 2px solid #0b6da7; 
-    margin-left: 200pt; 
-    margin-right: 200pt;
+
 }.backgroundbulat2{
     border-radius: 25px;
     border: 2px solid #0b6da7; 
-    margin-left: 50pt; 
-    margin-right: 50pt;
     background-color: aliceblue;
 }
 .judulisi{
     text-align: center;
     font-weight: 800;
     color: black;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'PT Sans', sans-serif;
 }
 .kontak{
     background-color:black;
@@ -56,4 +56,11 @@ body{
     left:0;
     width: 100%;
 }
-  
+footer{
+    padding-top: 2rem;
+    background-color: black; 
+    width: 100%
+}
+.teksdalam2{
+    font-family: 'PT Sans', sans-serif;
+}
